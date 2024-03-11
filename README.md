@@ -1,2 +1,24 @@
-# shoppingcar
-购物车（Vue+vant+axios）实现购物车订单，查看物品详情等功能
+# vue-rms
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
